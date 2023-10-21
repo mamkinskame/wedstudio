@@ -1,0 +1,147 @@
+.logo{
+    font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+.logo-header{
+    font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #000000;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.nav-list-link{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #000000;
+}
+.contacts-list-link{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+color:  #757575;
+
+
+}
+.contacts-list-link:hover, .nav-list-link:hover{
+    color: #2196F3;
+}
+.section-hero-title{
+    font-family: Roboto;
+font-size: 44px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0.06em;
+text-align: center;
+color: #FFFFFF;
+}
+.section-hero-btn{
+    width: 216px;
+    height: 50px;
+    border-radius: 4px;
+    background-color:#2196F3;
+    color:#FFFFFF;
+    border: none;
+}
+.features-list-title{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0.03em;
+color:#212121;
+}
+.features-list-text{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color:#757575;
+}
+.logo-footer{
+    color: #FFFFFF;
+
+}
+.address-list-link{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #FFFFFF;
+}
+.location-link{
+    color: #FFFFFF;
+}
+.footer{
+background-color:#212121;
+
+}
+.section-work-title{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+.section-team-title{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contakst-list-link:hover, .nav-ist-ink:hover{
+    color: #2196F3;
+}
+.contacts-list{
+    display: flex;gap: 30px;
+}
+.nav-list{
+    display: flex;
+    gap:50px;
+}
+.portfolio-section{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+.filters-list{
+margin-bottom: 34px;
+display: flex;
+justify-content: center;
+gap: 8px;
+}
+.portfolio-list{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 30px;
+}
